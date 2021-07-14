@@ -7,4 +7,4 @@ The changelog is available [here](https://github.com/FlamingCherry/Witherite/blo
 
 This is a fork with a fix (hopefully) for the generation issue with Witherite. In it's current state, it doesn't generate.
 
-It is currently not working.
+The fix is working. I am working on figuring out to how to make the .jar mod file. Textures are missing.
