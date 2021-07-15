@@ -1,10 +1,1 @@
-# Witherite
-Mod for Fabric that adds Wither-related items to the game.
-
-You can view the full description of the mod and download it at [Modrinth](https://modrinth.com/mod/witherite) or [Curseforge](https://www.curseforge.com/minecraft/mc-mods/witherite). 
-
-The changelog is available [here](https://github.com/FlamingCherry/Witherite/blob/main/CHANGELOG.md).
-
-This is a fork with a fix (hopefully) for the generation issue with Witherite. In it's current state, it doesn't generate.
-
-The fix is working. I am working on figuring out to how to make the .jar mod file. Textures are missing.
+This is no longer needed. The fix has been implemented in the main fork. I will be uploading a .jar file with the latest build in it (at the time of writing, 5:09 on 07-15)
